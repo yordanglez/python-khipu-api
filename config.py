@@ -1,0 +1,1 @@
+__url_api__= "http://stageapi.glovoapp.com"

@@ -1,0 +1,3 @@
+
+class FailedConfig(Exception):
+    pass
